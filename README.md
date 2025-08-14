@@ -1,5 +1,5 @@
 # Student-Performance-Prediction-using-Machine-Learning-
-
+![image alt](https://updategadh.com/wp-content/uploads/2024/06/Student-Performance-Prediction.png)
 ## Project Overview
  - This project aims to predict student performance based on various academic and socio-economic factors using Python’s machine learning and data analysis libraries.
 
