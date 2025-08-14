@@ -30,13 +30,13 @@ The dataset contains multiple features representing:
  - The target variable is the final student performance score.
 
 ### Methodology
-1. Data Loading & Inspection
+**1. Data Loading & Inspection**
 
  - Loaded the dataset into a pandas DataFrame.
 
  - Checked data types, missing values, and basic statistics.
 
-2. Exploratory Data Analysis (EDA)
+**2. Exploratory Data Analysis (EDA)**
 
  - Plotted distributions of scores using Seaborn.
 
@@ -44,19 +44,19 @@ The dataset contains multiple features representing:
 
  - Analyzed relationships between categorical features and performance.
 
-3. Feature Engineering
+**3. Feature Engineering**
 
  - Encoded categorical variables (pd.get_dummies).
 
  - Applied feature scaling where necessary.
 
-4. Model Training
+**4. Model Training**
 
  - Split data into train and test sets.
 
  - Trained a Linear Regression model.
 
-5. Model Evaluation
+**5. Model Evaluatio**n
 
  - Mean Absolute Error (MAE): Measures average absolute prediction error.
 
